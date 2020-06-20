@@ -1,6 +1,4 @@
 *.iml
 target/
-.deal/
-src/main/antlr4/*.java
-src/main/antlr4/*.interp
-src/main/antlr4/*.tokgitens
+.idea/
+src/main/java/antlr4/*[!*.g4]
