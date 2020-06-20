@@ -1,6 +1,6 @@
 *.iml
-target/*
-.deal/*
+target/
+.deal/
 src/main/antlr4/*.java
 src/main/antlr4/*.interp
-src/main/antlr4/*.tokens
+src/main/antlr4/*.tokgitens
